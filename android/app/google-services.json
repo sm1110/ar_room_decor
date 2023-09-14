@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258504565042",
+    "project_id": "decor-fusion-83380",
+    "storage_bucket": "decor-fusion-83380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258504565042:android:82f5d6bb04ae89ffb9f72b",
+        "android_client_info": {
+          "package_name": "com.group6.arroomdecor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258504565042-pv0q2hkg12mt7lrglgba5l8h5k97u0rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYK-IjQFmJo3b-VLVK57S3ya0-GftZpz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258504565042-pv0q2hkg12mt7lrglgba5l8h5k97u0rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
