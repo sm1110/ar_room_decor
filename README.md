@@ -1,4 +1,4 @@
-# ar-room-decor
+# ar_room_decor
 AR Room Decor is a software project that leverages the Flutter SDK and Firebase as the backend to provide users with an immersive and interactive augmented reality experience for room decoration. 
 
 The primary goal of AR Room Decor is to revolutionize the way users visualize and design their living spaces by incorporating augmented reality technology into the room decoration process. The application offers seamless compatibility with both Android and iOS platforms, allowing a wide range of users to access and benefit from its functionalities.
